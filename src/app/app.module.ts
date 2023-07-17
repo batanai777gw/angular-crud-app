@@ -21,13 +21,11 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { EmpAddEditComponent } from './emp-add-edit/emp-add-edit.component';
-import { PlayerAddEditComponent } from './player-add-edit/player-add-edit.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     EmpAddEditComponent,
-    PlayerAddEditComponent,
   ],
   imports: [
     BrowserModule,
