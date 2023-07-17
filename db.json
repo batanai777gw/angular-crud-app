@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "code"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "code"
+  },
+  "employees": [
+    {
+      "firstName": "test2",
+      "lastName": "test2",
+      "email": "test2@gmail.com",
+      "dob": "2023-07-11T22:00:00.000Z",
+      "gender": "female",
+      "education": "Winger",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 1
+    }
+  ]
+}
